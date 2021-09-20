@@ -1,6 +1,6 @@
 # Data_Structure & Algorithms
 
-### This repository contains all the coding problems solved by me.
+### This repository contains Some of the coding problems solution.
 
 * Find all topic wise questions in different folders:)
 * From Basic to Hard level questions under each topic
