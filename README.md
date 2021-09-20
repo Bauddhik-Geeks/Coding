@@ -11,9 +11,10 @@ To contribute in the current repo follow the following steps:
 - Create a directory/folder with name of programming language if folder does not exist.
 for example :- create folder named as **Java**
 - Add the sub folder iside the programming language folder regarding the topic name.
-for example :- **Sorting**
+for example :- **DSA**
+- Add topic name inside subfolder like **Sorting**
 
-**Java -> Sorting -> code**
+**Java -> DSA -> Sorting -> code**
 - Inside subfolder add your code.
 - Create pull request
 
