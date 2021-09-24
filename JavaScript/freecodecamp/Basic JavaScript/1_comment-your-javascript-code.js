@@ -1,2 +1,0 @@
-// comment
-/* this is comment */
