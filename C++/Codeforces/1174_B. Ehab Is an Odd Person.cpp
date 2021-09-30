@@ -20,63 +20,6 @@ using namespace std;
 #define repn(i,a,n) for(ll i=a;i<n;i++)
 #define repan(i,a,n) for(ll i=0;i<=n;i++)
  
- 
-ll inf = 1e18;
-ll mod = 1e9 + 7 ;
- 
-ll gcd(ll a, ll b)
-{
-    return b==0?a:gcd(b,a%b);
-}
- 
- 
-void yes()
-{
-    cout<<"YES"<<"\n";
-}
-void no()
-{
-    cout<<"NO"<<"\n";
-}
- 
-bool ispalindrom(string s)
-{
-    for(ll i=0,j=s.size()-1; j>=i; i++,j--)
-    {
-        if(s[i]!=s[j])
-            return false;
-        if(s[i]=='?'||s[j]=='?')
-            return false;
-    }
-    return true;
-}
- 
-bool isprime(int n)
-{
-    if (n <= 1)
-        return true;
-    if (n <= 3)
-        return true;
-    if (n % 2 == 0 || n % 3 == 0)
-        return false;
- 
-    for (int i = 5; i * i <= n; i = i + 6)
-        if (n % i == 0 || n % (i + 2) == 0)
-            return false;
-    return true;
-}
- 
-void showpq(priority_queue<ll> gq)
-{
-    priority_queue<ll> g = gq;
-    while (!g.empty())
-    {
-        cout<< g.top();
-        g.pop();
-    }
-    cout << '\n';
-}
- 
 int main()
 {
     ios_base::sync_with_stdio(false);
