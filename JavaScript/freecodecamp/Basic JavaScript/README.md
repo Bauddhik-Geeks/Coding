@@ -1,12 +1,12 @@
  <br>
  
-##  Basic of java 
+##  Basic of JavaScript 
  
  
-**This JavaScript is the world's most popular programming language.<BR>Which is used as a programming language for web Development.It is easy to learn.**
+**This JavaScript is the world's most popular programming language.<BR>Which is used as a programming language for web Development. It is easy to learn.**
 
 **The extension is .js.**<br>
-**To run javascript you have to instll node.js or another way is you can use in Html**<br>
+**To run javascript you have to install node.js or another way is you can use in Html**<br>
 
 
 ## Comment is js
@@ -24,6 +24,6 @@ Multi line Comment :-
 
 > Note:- The JavaScript follow CamelCase;<br>Eg: `var hello` , `var HeLLo` , `var HEllO` is different  
 
-## Operation can be performend like other languages
+## Operation can be performend like other languages 
 
 
