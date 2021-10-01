@@ -1,3 +1,7 @@
+// Contest Name- Codeforces Round 745 (Div 2)
+// Conetst Link- https://codeforces.com/contest/1581
+// Problem LInk-  https://codeforces.com/contest/1581/problem/B
+
 /*CQXYM wants to create a connected undirected graph with n nodes and m edges, and the diameter of the graph must be strictly less than k−1. Also, CQXYM doesn't want a graph that contains self-loops or multiple edges (i.e. each edge connects two different vertices and between each pair of vertices there is at most one edge).
 
 The diameter of a graph is the maximum distance between any two nodes.
